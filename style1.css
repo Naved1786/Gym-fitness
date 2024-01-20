@@ -1,0 +1,56 @@
+.bd {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    background-color: rgb(6, 76, 88);
+    margin: 1px;
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.para {
+    margin: 0px;
+    background-color: rgb(10, 56, 29);
+
+}
+
+.cont {
+    margin-right: 20px;
+    text-align: center;
+    background-color: rgb(10, 56, 29);
+}
+
+h2 {
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.fit {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.animate {
+    width: 100%;
+    height: 225px;
+    background-color: rgb(218, 215, 213);
+    color: brown;
+    text-align: center;
+}
+
+#Advice {
+    color: blue;
+    text-decoration: underline;
+}
