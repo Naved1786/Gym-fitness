@@ -1,0 +1,111 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+P {
+    color: rgb(243, 9, 9);
+    font-size: 34px;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+
+}
+
+#p1 {
+    color: white;
+    font-size: 15px;
+    display: block
+}
+
+.container1 {
+    height: 400px;
+
+}
+
+.span {
+    color: white;
+
+}
+
+.cont1 {
+
+    display: flex;
+    color: yellow;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+#c1 {
+    margin: 10px;
+}
+
+#c2 {
+    margin: 10px;
+}
+
+#c3 {
+    margin: 10px;
+}
+
+#c4 {
+    margin: 10px;
+}
+
+.cont1 :hover {
+    color: green;
+    background: white;
+    border-radius: 30%;
+}
+
+.container2 {
+    display: flex;
+    /* background-color: yellow; */
+}
+
+#p2 {
+    color: red;
+    font-size: 20px;
+}
+
+.container3 {
+    margin-left: 100px;
+}
+
+.cont2 {
+    margin: 20px;
+}
+
+.cont3 {
+    margin: 20px;
+    display: flex;
+}
+
+#pc ::placeholder {
+    height: 400px;
+    width: 500px;
+}
+
+.container4 {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    color: #1877f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.facebook-logo{
+    color: #17a5d4;
+}
+.container4 i{
+     padding-left: 30px; 
+     font-size: 30px;
+}
